@@ -7,7 +7,7 @@ A microservice designed to convert JSON data into an Excel format.
 - Endpoint: http://localhost:5000/convert-to-excel
 - Method: POST
 - Data Format: JSON (with structure as provided in the client script)
-- Example Request: 
+- Example Request: please refer to client.py
 
 3. Receiving Data:
 - Response: a link to the downloaded Excel file
